@@ -1,0 +1,2 @@
+rootProject.name='HocDaTienTrinh_HandlerUsingMessage'
+include ':app'
